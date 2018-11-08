@@ -12,3 +12,5 @@
 Σε κάθε υποφάκελο **src** βρίσκονται τα source files
 
 Σε κάθε υποφάκελο **public** βρίσκονται τα τελικά export
+
+![alt text](\common\src\vectorGraphics\logo\logoShowCase.png)
