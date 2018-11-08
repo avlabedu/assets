@@ -1,7 +1,7 @@
 # assets
 Τα assets των avlabedu και avlab
 
-##path scheme
+## path scheme
 Στον φάκελο **common** βρίκσονται τα κοινά asset
 Στον φάκελο **avlab** βρίσκονται τα asset για την ιστοσελίδα
 Στον φάκελο **avlabedu** βρίσκονται τα asset για τις εφαρμογές
