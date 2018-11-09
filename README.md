@@ -13,4 +13,8 @@
 
 Σε κάθε υποφάκελο **public** βρίσκονται τα τελικά export
 
-![alt text](\common\src\vectorGraphics\logo\logoShowCase.png)
+## Logo Showcase
+Δίχρωμη και Grayscale εκδοχή του logo κατάλληλη για ανοιχτούς και σκούρους τόνους background σε 1080p
+
+![Logo Showcase](https://github.com/avlabedu/assets/blob/master/common/src/vectorGraphics/logo/logoShowCase.png)
+
